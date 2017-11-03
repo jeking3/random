@@ -27,3 +27,9 @@
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Wlogical-op"
 #endif
+
+#if defined(BOOST_CLANG)
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wnested-anon-types"
+#endif
+
