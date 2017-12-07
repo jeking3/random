@@ -94,7 +94,6 @@ doxygen reference :
         random_distribution=\"@xmlonly <link linkend=\\\"boost_random.reference.concepts.random_distribution\\\">random distribution</link> @endxmlonly\" \\
         pseudo_random_number_generator=\"@xmlonly <link linkend=\\\"boost_random.reference.concepts.pseudo_random_number_generator\\\">pseudo-random number generator</link> @endxmlonly\" \\
         uniform_random_number_generator=\"@xmlonly <link linkend=\\\"boost_random.reference.concepts.uniform_random_number_generator\\\">uniform random number generator</link> @endxmlonly\" \\
-        nondeterministic_random_number_generator=\"@xmlonly <link linkend=\\\"boost_random.reference.concepts.non_deterministic_uniform_random_number_generator\\\">non-deterministic random number generator</link> @endxmlonly\" \\
         generators=\"@xmlonly <link linkend=\\\"boost_random.reference.generators\\\">generators</link> @endxmlonly\" \\
         distributions=\"@xmlonly <link linkend=\\\"boost_random.reference.distributions\\\">distributions</link> @endxmlonly\" \\
         additive_combine_engine=\"@xmlonly <classname alt=\\\"boost::random::additive_combine_engine\\\">additive_combine_engine</classname> @endxmlonly\" \\
